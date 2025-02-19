@@ -9,7 +9,7 @@
 3.加入卡尔曼滤波（在视频中有对目标点的预测存在偏移，由于卡尔曼滤波模型中假设匀速运动，但是传入数据存在抖动，造成偏移）
 # Kuavo
 1.完成了ETH Robot Dynamics Lecture Note（中文版）文档的阅读，但是对后面动力学部分不太理解\
-2.\
+2.完成了A Unified MPC Framework for Whole-Body Dynamic Locomotion and Manipulation文档的阅读（仅对大致框架有所了解，对于其中具体计算等等等等都不咋会），理解有限\
 3.完成了四组机器狗的例程跑通\
 4.完成了双足机器人例程跑通以及通过cmd_vel发布话题使之运动（issue中Kuavo_task3）\
 5.完成了扩展程序（w按键设置为0.1速度，s为后退0.1速度，x速度为0）
